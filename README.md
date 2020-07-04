@@ -1,6 +1,5 @@
 # NCTU-routing - A route guiding project
-## Version 
-1.0.3
+## Version 1.0.3
 ---
 ## Scenario -Am I on the right path?
 
