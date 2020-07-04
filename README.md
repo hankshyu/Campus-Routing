@@ -14,4 +14,8 @@ For newbies just entering college, things are usually fresh and fun. However, no
 - Output: Map with path labeled
 
 ---
+## Configuratons
+- Add the file path of a txt file which the Map with path labeled will be stored
+---
+
 
