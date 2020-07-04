@@ -5,6 +5,9 @@ public class Main extends BasicMapManipulation {
 
 
     public static void main(String[] args) {
+        if (args.length == 0) {
+            throw new RuntimeException("The file path is set as empty, please enter file path!");
+        }
         SchoolMap schoolMap = new SchoolMap();
 
         TreeMap<String, BasicDrawings> treeMap = schoolMap.getTreeMap();
@@ -17,6 +20,8 @@ public class Main extends BasicMapManipulation {
         //set the crowded parameter
         System.out.println("This is the School Road Guiding System!");
         System.out.println("Build by 徐子瀚");
+        System.out.println();
+        System.out.println("Your file path is set as: "+args[0]);
         System.out.println();
         System.out.println("-------------------------------------------------");
         System.out.println();
@@ -216,16 +221,15 @@ public class Main extends BasicMapManipulation {
 
             } else if (outputDecision == 2) {
                 WriteToFile writeToFile = new WriteToFile();
-                writeToFile.toFile("C:\\TEMP\\Hank.txt", getMap(), '#', ' ', '@');
+                writeToFile.toFile(args[0], getMap(), '#', ' ', '@');
                 outputflag = true;
             } else if (outputDecision == 3) {
                 WriteToFile writeToFile = new WriteToFile();
-                writeToFile.toFile("C:\\TEMP\\Hank.txt", getMap(), '#', ' ', '@');
+                writeToFile.toFile(args[0], getMap(), '#', ' ', '@');
                 printMap();
                 outputflag = true;
             } else {
                 System.out.println("Please enter a valid instruction");
-
             }
 
         }
