@@ -19,4 +19,8 @@ For newbies just entering college, things are usually fresh and fun. However, no
 - Add the file path of a txt file which the Map with path labeled will be stored
 ---
 
+## Class diagram
+![Class Diagram](https://user-images.githubusercontent.com/67572824/86504523-fbf01180-bdeb-11ea-8746-f9cadf4a28d1.jpg)
 
+## Copyrights 
+-hankshyu(hankshyu@gmail.com)
