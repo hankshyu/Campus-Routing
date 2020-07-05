@@ -16,7 +16,8 @@ What's New in 1.0.3?
 ---
 ## Scenario -Am I on the right path?
 ### "From here to there via that"
-
+Since the corona-virus struct the world, people would like to keep distances between pedestrians to avoid infections. People tried to minimise the distance they take when travel
+between destinations. NCTU desperately needs a guiding system to indicate students between classes to take the right path to the next course. Obviously, students would like to pick up snacks between classes in case of their stomoch rumble.
  
 ---
 ## IPO model
