@@ -1,4 +1,9 @@
-# NCTU-routing - A route guiding project
+# NCTU-routing - A campus route guiding project
+
+<img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/Campus-Routing?color=orange&logo=github"> <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/hankshyu/Campus-Routing?color=orange&logo=github"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/Campus-Routing"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/Campus-Routing"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/hankshyu/Campus-Routing"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hankshyu/Campus-Routing"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/Campus-Routing?logo=git&color=green"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/Campus-Routing?logo=git&color=green"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/Campus-Routing?logo=git&color=green">
+
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hankshyu/Campus-Routing?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hankshyu/Campus-Routing?style=social">
+
 ## Version 1.0.3
 What's New in 1.0.3?
 - Bug fixed : The crowded function now works properly.
