@@ -4,22 +4,9 @@
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hankshyu/Campus-Routing?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hankshyu/Campus-Routing?style=social">
 
-## Version 1.0.3
-What's New in 1.0.3?
-- Bug fixed : The crowded function now works properly.
 
-- Improvement : Users now enter the number representing the building, which is a lot easier.
+<h2>Scenario -Am I on the right path?</h2>
 
-- Added features :
-
-  - More detailed settings in crowded options! There are level 1 to 10 crowdedness to choose from, which generates pedestrians randomly on the map to imitate the crowded campus!
-
-  - New added relay points to users! You may enter current location, destination and some midway destinations ! The greedy algorithm calculates the path for you automatically!
-
-  - It shows the entire path now so it is clear for users!
-
----
-## Scenario -Am I on the right path?
 ### "From here to there via that"
 Since the corona-virus struct the world, people would like to keep distances between pedestrians to avoid infections. People tried to minimise the distance they take when travel
 between destinations. NCTU desperately needs a guiding system to indicate students between classes to take the right path to the next course. Obviously, students would like to pick up snacks between classes in case of their stomoch rumble.
@@ -50,5 +37,3 @@ between destinations. NCTU desperately needs a guiding system to indicate studen
 - By big data, calulate the most taken path and set it crowded.
 - GUI to interact with users
 
-## Copyrights 
-- hankshyu(hankshyu@gmail.com)
