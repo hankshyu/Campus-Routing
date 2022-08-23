@@ -11,22 +11,22 @@
 Since the corona-virus struct the world, people would like to keep distances between pedestrians to avoid infections. People tried to minimise the distance they take when travel
 between destinations. NCTU desperately needs a guiding system to indicate students between classes to take the right path to the next course. Obviously, students would like to pick up snacks between classes in case of their stomoch rumble.
  
----
+
 ## IPO model
 
 - Input: School map / Current Location / Destination
 - Process: Pathfinding Algorithms (A* & Greedy)
 - Output: Map with path labeled
 
----
+
 ## Configuratons
 - Add the file path of a txt file which the Map with path labeled will be stored
----
+
 
 ## Class diagram
 ![Class Diagram](https://user-images.githubusercontent.com/67572824/86504523-fbf01180-bdeb-11ea-8746-f9cadf4a28d1.jpg)
 
----
+
 ## What's to improve?
 - Add more maps to provide users choices(It is easy to do so due to objects)
 - Bigger array size to provide smooth experience
